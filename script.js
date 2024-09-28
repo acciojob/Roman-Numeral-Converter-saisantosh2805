@@ -28,4 +28,4 @@ function convertToRoman(num) {
 }
 
 console.log(convertToRoman(798));  // Outputs: DCCXCVIII
-console.log(convertToRoman(14));  
+console.log(convertToRoman(14));   // Outputs: XIV
